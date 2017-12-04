@@ -1,0 +1,4 @@
+DEBUG:root:Method add : 10 + 5 = 15
+DEBUG:root:Method sub : 10 - 5 = 5
+DEBUG:root:Method sub : 10 * 5 = 50
+DEBUG:root:Method sub : 10 / 5 = 2.0
