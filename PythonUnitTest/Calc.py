@@ -1,4 +1,5 @@
 import logging
+import Employee
 
 logging.basicConfig(filename='Calc.log',level=logging.DEBUG)
 

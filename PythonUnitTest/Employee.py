@@ -42,3 +42,5 @@ class Employee:
 
 
 
+Employee('gnanadeepika','nadimpalli',750000)
+Employee('harshavikram','kesavareddy',900000)
